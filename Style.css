@@ -63,7 +63,7 @@ nav {
     margin-bottom: 8%;
     color: white;
     position: relative;
-   background-color: rgba(0, 0, 0, 0.7)
+       background: rgba(0, 0, 0, 0.98);
     z-index: 2;
     font-family: initial;
     color: #F8E09B;
