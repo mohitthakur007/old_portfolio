@@ -1,1 +1,2 @@
-# thakur.mohitkumar007.github.io
+Website for implementing frontend skills
+Visit : https://mohitthakur007.github.io
