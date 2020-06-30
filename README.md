@@ -1,3 +1,3 @@
-## Portfolio Website [DEMO](https://mohitthakur007.github.io)
+## Portfolio Website [DEMO](https://trusting-mirzakhani-6ed702.netlify.app)
 Website for implementing  basic web development skills
 
